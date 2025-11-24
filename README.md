@@ -95,7 +95,7 @@ KuaiT 自动下单系统是一个基于 C++ 开发的 Windows 桌面应用程序
 
 ### 详细文档
 
-- 📘 [完整 API 文档](OrderProgram/API文档.md) - 包含所有接口的详细说明和示例
+- 📘 [完整 API 文档](https://github.com/taoersvip/KuaiT/blob/main/API%E6%96%87%E6%A1%A3.md) - 包含所有接口的详细说明和示例
 - 📗 [快速参考手册](OrderProgram/API快速参考.md) - 接口速查表和简洁示例
 - 📦 [Postman 集合](OrderProgram/OrderProgram_API.postman_collection.json) - 可直接导入测试
 
