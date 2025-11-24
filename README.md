@@ -44,7 +44,7 @@ KuaiT 自动下单系统是一个基于 C++ 开发的 Windows 桌面应用程序
 
 1. **下载程序**
    
-   从 [Releases]([https://github.com/taoersvip/KuaiT.git]) 页面下载最新版本
+   从 [Releases](https://github.com/taoersvip/KuaiT.git) 页面下载最新版本
 
 2. **解压文件**
    
