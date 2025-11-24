@@ -304,7 +304,7 @@ KuaiT自动下单/
 
 ## 📄 许可证
 
-本软件为**专有软件**，采用授权许可制。详见 [LICENSE](LICENSE) 文件。
+本软件为**专有软件**，采用授权许可制。详见 [LICENSE](https://github.com/taoersvip/KuaiT/blob/main/LICENSE) 文件。
 
 ### 授权说明
 
